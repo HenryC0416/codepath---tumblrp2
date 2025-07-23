@@ -4,16 +4,16 @@ Submitted by: **Henry Chen**
 
 **Tumblr Detail** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Setup navigation to the Detail Screen
-- [ ] Created the Detail View UI
-- [ ] Add the ability to pass data to the Detail View Controller
-- [ ] Made personal finishing touches to the UI
+- [x ] Setup navigation to the Detail Screen
+- [x ] Created the Detail View UI
+- [x ] Add the ability to pass data to the Detail View Controller
+- [x ] Made personal finishing touches to the UI
 
 
 The following **additional** features are implemented:
@@ -21,6 +21,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+https://www.loom.com/share/73b3dd9d24ef44f5807f8d04daecf0f5
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
